@@ -1,0 +1,117 @@
+html {
+  scroll-behavior: smooth;
+}
+
+/* Section CSS */
+
+.header {
+  position: relative;
+}
+
+.row-styles {
+  text-align: center;
+  font-size: 20px;
+  margin: 20px 0 20px;
+}
+
+.section-styles {
+  padding-top: 100px;
+  padding-bottom: 30px;
+  margin: 10% 5% 3%;
+}
+
+/* Header Section CSS */
+
+.brand {
+  height: 150px;
+  width: 180px;
+}
+
+.header-photo {
+  width: 100%;
+  position: absolute;
+  height: 650px;
+  top: 0px;
+  z-index: -1;
+}
+
+.navbar {
+  margin: 0 75px;
+}
+
+.header-description {
+  margin-top: 50px;
+  height: 300px;
+  text-align: center;
+  background-color: rgb(105, 105, 105, 0.5);
+}
+
+.header-description p {
+  color: white;
+  font-size: 40px;
+}
+
+.header-text {
+  padding: 50px 20px;
+}
+
+.header-button {
+  height: 50px;
+  width: 300px;
+  background-color: #CD853F;
+  border-style: none;
+  color: white;
+  font-size: 20px;
+}
+
+/* Room Section CSS */
+
+.body-photo {
+  height: 350px;
+}
+
+/* Menu Section CSS */
+.menu {
+  background-color: #87CEEB;
+  color: white;
+  padding-bottom: 30px;
+}
+
+.menu-photo {
+  height: 500px;
+  margin-bottom: 30px;
+}
+
+.menu-description {
+  margin-left: 80px;
+}
+
+/* Footer Section CSS */
+
+.footer-style {
+    background-color: #F8F8F8;
+    border-top: 1px solid #E7E7E7;
+    text-align: center;
+    padding: 20px;
+    margin-top: 7%;
+    height: 60px;
+    width: 100%;
+}
+
+.footer-container {
+  display: block;
+  padding: 20px;
+  height: 60px;
+  width: 100%;
+}
+
+.footer-text {
+  font-size: 10px;
+  color: black;
+}
+
+/* MISC */
+.to-follow {
+  padding-top: 100px;
+  text-align: center;
+}
